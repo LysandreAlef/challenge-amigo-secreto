@@ -6,8 +6,6 @@ O **Amigo Secreto** é um jogo interativo que permite que você e seus amigos pa
 ## Funcionalidades
 - 🎁 **Adicionar Participantes**: Insira os nomes dos seus amigos facilmente.
 - 🎲 **Sortear Amigo Secreto**: Realize o sorteio e descubra quem é o amigo secreto de cada um.
-- 📱 **Interface Intuitiva**: Design limpo e responsivo, ideal para qualquer dispositivo.
-- ✅ **Feedback Visual**: Mensagens claras para guiar o usuário durante o jogo.
 
 ## Tecnologias Utilizadas
 Aqui estão as principais tecnologias utilizadas no projeto:
